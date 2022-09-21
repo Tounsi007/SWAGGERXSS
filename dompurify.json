@@ -1,0 +1,9 @@
+{
+   "url":"https://raw.githubusercontent.com/Tounsi007/SWAGGERXSS/main/dompurify.yaml",
+   "urls":[
+      {
+         "url":"https://raw.githubusercontent.com/Tounsi007/SWAGGERXSS/main/dompurify.yaml",
+         "name":"Foo"
+      }
+   ]
+}
